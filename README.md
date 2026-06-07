@@ -20,4 +20,4 @@ To build a strong foundation in Arrays, which are one of the most important topi
 
 Author
 
-Sufiyan
+Sufiyan Jangsher
